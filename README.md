@@ -1,12 +1,5 @@
-<div align="center">  
+# CI/CD com Github Actions
 
-<h1> App Workflow </h1>
+Projeto labotarório de CI/CD para execução pipeline utilizando Github Actions.
 
-![Go](https://img.shields.io/badge/-Go-1e272e?style=for-the-badge&logo=Go)&nbsp;
-</div>
-
-<h1> Descrição: </h1>
-<p>
-Essa é uma aplicação base que serve de exemplo para a utilização do Github Actions.
-</p>
-
+Obs: O projeto de aplicação desse repositório é um exemplo para fins de estudo e foi criado utilizando Go.
